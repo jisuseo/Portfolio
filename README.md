@@ -22,7 +22,10 @@
 
 ### 🔹 [Kakao_Weather_Exchange_API_Bot](https://github.com/jisuseo/Kakao_Weather_Exchange_API_Bot)
 - **설명:** OpenWeather API 연동하여 실시간 날씨 데이터 수집 (Python)
-- **주요 기능:** - 🌐 **OpenWeather API**: 독일 뒤셀도르프 및 서울 날씨 예보 (최대 48시간)/ 💱 **한국수출입은행 환율 API**: USD, EUR 환율 정보 및 변화량 / 📢 **카카오 디벨로퍼 API**: 친구에게 카카오톡 메시지 전송
+- **주요 기능:**
+- 🌐 **OpenWeather API**: 독일 뒤셀도르프 및 서울 날씨 예보 (최대 48시간)
+- 💱 **한국수출입은행 환율 API**: USD, EUR 환율 정보 및 변화량 
+- 📢 **카카오 디벨로퍼 API**: 친구에게 카카오톡 메시지 전송
 ---
 
 ## 💻 기술 스택
