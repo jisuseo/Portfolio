@@ -29,7 +29,7 @@
 ---
 
 ## 💻 기술 스택
-- **언어:** Python, SQL, Excel
+- **언어:** Python, Excel
 - **라이브러리/툴:** Pandas, OpenPyXL, Matplotlib, Win32com, ERP(Odoo), SMTPLib
 - **데이터 시각화:** Python 시각화, Excel 피벗 및 그래프
 - **SCM:** 재고/입출고 관리, ERP 구축 및 개선, 3PL 커뮤니케이션
