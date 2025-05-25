@@ -1,3 +1,12 @@
+# Jisu's Portfolio 🌟
+
+## 🔗 Projects
+- [Excel Automation](https://github.com/jisuseo/Portfolio_Excel_automation)
+- [SCM Management](https://github.com/jisuseo/Portfolio_SCM_Management)
+- [Data Visualization](https://github.com/jisuseo/Portfolio_Data_Visualization)
+- [Python AWS Automation](https://github.com/jisuseo/Portfolio_Python_AWS_Automation)
+
+
 # portfolio
 Python &amp; SCM 실습 포트폴리오
 
