@@ -36,6 +36,5 @@
 
 ## 🌟 Contact
 - 📧 [이메일](mailto:heyho0929@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jisu-seo-315504294)
 - 🔗 [GitHub](https://github.com/jisuseo)
 
